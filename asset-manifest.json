@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rpgsimulator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/rpgsimulator/static/js/main.84fa4c7e.chunk.js",
+    "main.js.map": "/rpgsimulator/static/js/main.84fa4c7e.chunk.js.map",
+    "runtime-main.js": "/rpgsimulator/static/js/runtime-main.cfc69866.js",
+    "runtime-main.js.map": "/rpgsimulator/static/js/runtime-main.cfc69866.js.map",
+    "static/js/2.43a06ffe.chunk.js": "/rpgsimulator/static/js/2.43a06ffe.chunk.js",
+    "static/js/2.43a06ffe.chunk.js.map": "/rpgsimulator/static/js/2.43a06ffe.chunk.js.map",
+    "static/js/3.657ea83b.chunk.js": "/rpgsimulator/static/js/3.657ea83b.chunk.js",
+    "static/js/3.657ea83b.chunk.js.map": "/rpgsimulator/static/js/3.657ea83b.chunk.js.map",
+    "index.html": "/rpgsimulator/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/rpgsimulator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.43a06ffe.chunk.js.LICENSE.txt": "/rpgsimulator/static/js/2.43a06ffe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc69866.js",
+    "static/js/2.43a06ffe.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.84fa4c7e.chunk.js"
+  ]
+}
